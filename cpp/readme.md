@@ -15,3 +15,6 @@
 
 ## Optimize Performance
 - [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/). Reordering members of structure or class to save memory if possible. The variables of same length grouped together.
+
+## Log System
+- Always choose a log system for your software which is very important to tracing BUGs. A good starting point is [spdlog](https://github.com/gabime/spdlog).
